@@ -1,12 +1,26 @@
 # Week_1_Challenge
 
-Change all non-sematic elements to sematic ones.
+User Story: Edit codebase to follow accessibility standards so that our site is optimized for search engines.
 
-Fix hero image
+TODO: Update title element
+Change title from "Website" to "Horiseon Home Page"
 
-Added Alt and title for icon and images
+TODO: Fix marketing image
+Digital Marketing Image edited.  Top portion of image no longer gets cut off at higher px.
 
-Hide footing on webpage
+TODO: Change non-semantic HTML elements to semantic HTML elements.
+Edit all <div> to appropriate semantic elements.
+Edit .header class in style.css to match html elements.
 
-Update title
+TODO: Add attributes to follow accessibility standards.
+Added Alt and title for all images and icons.
+All elements follow a logical structure.
+
+TODO: Technical acceptance and application quality improvements.
+Fix nav link "Search Engine Optimization".
+Hide footing to resemble mock-up.
+Comments added to html file.
+Application's CSS property Class benefits consolidated to a single Class.
+
+
 
