@@ -12,7 +12,7 @@ Digital Marketing Image edited.  Top portion of image no longer gets cut off at 
 
 ### TODO: Change non-semantic HTML elements to semantic HTML elements.
 
-Edit all <div> to appropriate semantic elements.
+Edit all elements to appropriate semantic elements.
 
 Edit .header class in style.css to match html elements.
 
