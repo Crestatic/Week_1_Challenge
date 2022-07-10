@@ -1,28 +1,22 @@
-# Week_1_Challenge
+# Challenge 1: Horiseon accessibility standards
 
-## User Story: Edit codebase to follow accessibility standards so that our site is optimized for search engines.
+## Description
 
-### TODO: Update title element
+The HTML and CSS code needed to be refactored and made more accessible.  Web accessibility ensures that people with disabilities can access a website using assistive technologies.  Not only is is accessibility good for business, it also helps companies avoid litigation.
+
+### Changelog:
 
 Change title from "Website" to "Horiseon Home Page"
 
-### TODO: Fix marketing image
-
 Digital Marketing Image edited.  Top portion of image no longer gets cut off at higher px.
-
-### TODO: Change non-semantic HTML elements to semantic HTML elements.
 
 Edit all elements to appropriate semantic elements.
 
 Edit .header class in style.css to match html elements.
 
-### TODO: Add attributes to follow accessibility standards.
-
 Added Alt and title for all images and icons.
 
-All elements follow a logical structure.
-
-### TODO: Technical acceptance and application quality improvements.
+Ensure all elements follow a logical structure.
 
 Fix nav link "Search Engine Optimization".
 
@@ -32,5 +26,10 @@ Comments added to html file.
 
 Application's CSS property Class benefits consolidated to a single Class.
 
+### Image of website
+![alttext](assets/images/Week-1-Challenge-Image.png)
+
+### Link to website
+[link](https://crestatic.github.io/Week_1_Challenge/)
 
 
