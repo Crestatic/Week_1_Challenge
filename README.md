@@ -22,9 +22,9 @@ Fix nav link "Search Engine Optimization".
 
 Hide footing to resemble mock-up.
 
-Comments added to html file.
+Comments added to html and css file.
 
-Application's CSS property Class benefits consolidated to a single Class.
+CSS elements consolidated and organized to follow logical structure
 
 ### Image of website
 ![alttext](assets/images/Week-1-Challenge-Image.png)
